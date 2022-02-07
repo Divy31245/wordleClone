@@ -157,3 +157,8 @@ body{
 .alert.hide{
     opacity: 0;
 }
+@media only screen and (max-width: 768px) {
+  .keyboard{
+    margin-bottom:90px;
+    }
+}
